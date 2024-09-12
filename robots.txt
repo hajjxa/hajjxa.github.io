@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hajjxa.github.io/ghz/sitemap.ghz.gz
